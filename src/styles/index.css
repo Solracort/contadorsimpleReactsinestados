@@ -10,3 +10,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.padre{
+    background: silver;
+    display: flex;
+    font-size: 35px;
+    text-align: center;
+    margin:auto;
+    margin-top: 4rem;
+    align-items: center;
+    justify-content: center;
+    border-radius:50px 
+}
+.contador{
+    background: coral;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 50px;
+    width: 3rem;
+}
